@@ -1,3 +1,6 @@
+# NAME: DEVASANJAY N
+# REGISTER NUMBER:212223040032
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -74,6 +77,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output :
 
+![image](https://github.com/DEVASANJAY002/Mean-and-Variance/assets/152069249/c23f4e61-409b-4276-a668-cd9965e7881f)
 
 
 # Results :
